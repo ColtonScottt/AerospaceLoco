@@ -1,4 +1,4 @@
-# EchoVRLoco
+# AerospaceLoco
 
 <img src="https://img.itch.zone/aW1nLzEzMDQxOTIxLnBuZw==/original/ryZgyM.png" alt="AeroSpace"/>
 
